@@ -155,15 +155,20 @@ Analytical Insights:
  
 <img width="632" height="370" alt="Overview Page" src="https://github.com/user-attachments/assets/d7eb7584-90ee-400c-8621-6e2d7953fb13" />
 
-###  2. Revenue Insight Dashboard
+###  2. Skills Impact Dashboard
 
-The Revenue Insight Dashboard focuses on revenue and sales analysis, highlighting contribution and performance across different sectors.
+The Skills Impact Dashboard focuses on demonstrating how different skills set such as communication skills impacts students placement rates.
 
 Key Insights:
-  -  Higher revenues were encountered in the global markets of Asian Pacific and a least revenue was realized in African region
-  -  Higher revenues were encountered in the Medium priorities and there was a least priority in the Low priority and this is proportional to the profits.
-  -  Copiers, Phones and Bookcases were the higher product subcategories that contributed to the higher performance in profts
-  -  Their were higher performance of revenue per week on Mondays, Fridays and Sundays, and this was as a result in the number of orders
+  -  Students with higher technical skills and stronger communication skills were highly placed, below is the summary of technical and communication skills distribution:
+     -	High tech skills and strong comm skills 60.21%
+     -	Balanced tech skills and comm skills 47.97%
+     -	High teck skills and weak comm skills 32.73%
+  -  Students with advanced coding skills were highly placed at a rate of 73.07% compared to students with average coding skills and beginners.
+  -  Placement rate was directly propotional to the number of students not placed by coding skills. This is evident as the rate of coding skills increases to advanced levels, the rate of students with the same skills drop and thus more students are not placed.
+  -  Students with Outstanding and Excellent academic performance were highly placed because of their intellectual capacities.
+  -  Higher placement rates of students with higher aptitude capacities and higher mock interview scores, were highly placed as a result of their highest abilities in different capacities.
+
 
 <img width="633" height="371" alt="Skill Impact Page" src="https://github.com/user-attachments/assets/c4350904-ee54-4d47-8292-002df9569732" />
 
