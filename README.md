@@ -166,9 +166,9 @@ Key KPIs:
 
 Key Insights:
   -  Students with higher technical skills and stronger communication skills were highly placed, below is the summary of technical and communication skills distribution:
-     -	High tech skills and strong comm skills 60.21%
-     -	Balanced tech skills and comm skills 47.97%
-     -	High teck skills and weak comm skills 32.73%
+     -	High technical skills and strong communication skills 60.21%
+     -	Balanced technical skills and communication skills 47.97%
+     -	High technical skills and weak communication skills 32.73%
   -  Students with advanced coding skills were highly placed at a rate of 73.07% compared to students with average coding skills and beginners.
   -  Placement rate was directly propotional to the number of students not placed by coding skills. This is evident as the rate of coding skills increases to advanced levels, the rate of students with the same skills drop and thus more students are not placed.
   -  Students with Outstanding and Excellent academic performance were highly placed because of their intellectual capacities.
@@ -204,7 +204,7 @@ Key Insights:
 -	Analysis of the number of projects done and mock interview performance on placement rates
 
 ### 2.	Demographic Analysis
--	Academic performance of the student had high imapct on students placement, Outstanding and Excellent students were highly placed. 
+-	Students academic performance had a high imapct on students placement, Outstanding and Excellent students were highly placed. 
 -	Technical and Communication skills had high impact on placement of students, high technical skills and strong communication skills were highly placed.
 -	Sleeping hours, class attendance and studying hours had a less impact on placement.
 
@@ -213,29 +213,25 @@ Key Insights:
 <img width="230" height="136" alt="reasoning" src="https://github.com/user-attachments/assets/f6922afd-a577-420a-949c-efd6f9cfbd88" />
 
 
-### 3.	 Product Category and Subcategory
--	Average sales performance of each product category:
-	-	Technology 37.58%
-	-	Furniture 32.53%
-	-	Office Supplies 29.89%
--	The was a margin rise in the net profits of each product category
--	Higher orders were made for Office supplies at over 60%, though the revenue encountered was minimal.
--	Tables product subcategory had a huge impact on profit generation, since a loss of $63.8k was encountered
+### 3.	 Technical Skills and Communication Skills segments
+-	Students technical and communication skills had a high impact on placement as follows:
+     -	High technical skills and strong communication skills 60.21%
+     -	Balanced technical skills and communication skills 47.97%
+     -	High technical skills and weak communication skills 32.73%
+-	Some students with strong communication skills and low technical skills and those with high technical skills and weak communication skills had chances of being placed
+-	Students with Less skills and weak communication skills had a high risk of placement
+  
+### 4.	Skills impact on Students Placement
+-	Students with high number of experience (Number of Internships) were highly placed because of their experience in the industry
+-	Students with higher aptitude capacities were preferably placed because of their higher abilities that could impact the industry.
+-	Students with strong reasoning abilities were highly preferred and hence their high placement
+-	Students with highest mock interview scores were highly placed since they had knowledge of what is needed in the industry.
 
-### 4.	Customer Orders and Segments
--	Consumable Orders were highly ordered made by alot of customers, followed by corporate orders.
--	Higher orders were made from Asian pacific by segments, product category and subcategory.
--	The return rate of orders was quite high at 11.74% across the 4 years which reveals a lot of loss from the e-commerce
+### 5.	Placement Risk and Placement Readiness
+-	There was high risk of students with poor communication skills not being placed, since the higher the placement risks the lower the placement rates                                                
+	-	This highlights that placement rates are not detrmined by poor communication skills, rather strong communication skills
+-	Students with beginner level coding skills had higher riks of placement, since coding skills  have high impact of placement
 
-### 5.	Profits and Shipping Cost from sales
--	Higher Profits were encountered from Technology -> Office Supplies -> Furniture and this was proportional to the total shipping cost                                                  
-	-	This highlights that the management should maximize on the sales of Technology items such as phones and accessories.
--	Based on the order of Priority, a lot of profits were encountered from the medium class of priorities and least orders were made in the low class of priorities.
--	A lot of profits were made based on the shipping modes as follows
-	-	Standard Class Delivery 59.31%
-	-	Second Class Delivery 20.25%
-	-	First Class Delivery 15.18%
-	-	Same Day Delivery 5.25%
 
 ---
 
