@@ -191,8 +191,53 @@ Key Insights:
 -	students with poor communication skills, beginners in coding, very weak logical reasoning, lower scores in mock interviews, less project and poor academic performances had a high risk of placement.
 -	Students with higher placement risk had a low placement rate hence not placed.
 
-
 <img width="632" height="371" alt="Risk Readiness Page" src="https://github.com/user-attachments/assets/3df4111d-6a8b-4921-bfc4-91e1be505bac" />
+
+---
+
+## Key Areas of Analysis
+
+### 1.	Placement Rate Analysis
+
+-	Impact of students technical and communication analysis on placement rates
+-	Placement rate analysis on students academic performance
+-	Analysis of the number of projects done and mock interview performance on placement rates
+
+### 2.	Demographic Analysis
+-	Academic performance of the student had high imapct on students placement, Outstanding and Excellent students were highly placed. 
+-	Technical and Communication skills had high impact on placement of students, high technical skills and strong communication skills were highly placed.
+-	Sleeping hours, class attendance and studying hours had a less impact on placement.
+
+<img width="192" height="134" alt="coding skills" src="https://github.com/user-attachments/assets/feeb0295-68f1-4338-a07b-82403aed2a90" />
+<img width="257" height="140" alt="cgpa" src="https://github.com/user-attachments/assets/68fdd743-a426-44df-8a4d-844a7e9bc54e" />
+<img width="230" height="136" alt="reasoning" src="https://github.com/user-attachments/assets/f6922afd-a577-420a-949c-efd6f9cfbd88" />
+
+
+### 3.	 Product Category and Subcategory
+-	Average sales performance of each product category:
+	-	Technology 37.58%
+	-	Furniture 32.53%
+	-	Office Supplies 29.89%
+-	The was a margin rise in the net profits of each product category
+-	Higher orders were made for Office supplies at over 60%, though the revenue encountered was minimal.
+-	Tables product subcategory had a huge impact on profit generation, since a loss of $63.8k was encountered
+
+### 4.	Customer Orders and Segments
+-	Consumable Orders were highly ordered made by alot of customers, followed by corporate orders.
+-	Higher orders were made from Asian pacific by segments, product category and subcategory.
+-	The return rate of orders was quite high at 11.74% across the 4 years which reveals a lot of loss from the e-commerce
+
+### 5.	Profits and Shipping Cost from sales
+-	Higher Profits were encountered from Technology -> Office Supplies -> Furniture and this was proportional to the total shipping cost                                                  
+	-	This highlights that the management should maximize on the sales of Technology items such as phones and accessories.
+-	Based on the order of Priority, a lot of profits were encountered from the medium class of priorities and least orders were made in the low class of priorities.
+-	A lot of profits were made based on the shipping modes as follows
+	-	Standard Class Delivery 59.31%
+	-	Second Class Delivery 20.25%
+	-	First Class Delivery 15.18%
+	-	Same Day Delivery 5.25%
+
+---
 
 
 
