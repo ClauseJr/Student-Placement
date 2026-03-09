@@ -86,6 +86,50 @@ ORDER BY placement_rate DESC
 -- Students with very high technical skills but weak communication have slightly higher placement success 
 	-- than students with moderate technical skills but strong communication, though the difference is marginal.
 ```
+```sql
+
+WITH student_tech_soft_score AS (
+	SELECT
+		*,
+		ROUND(
+			(coding_skill_score 
+			+ aptitude_score 
+			+ logical_reasoning_score 
+			+ mock_interview_score)::numeric / 4.0
+		,2) AS TechSkills_Score
+	FROM student_placement_data
+)
+SELECT
+	CASE
+		WHEN TechSkills_Score < 60 AND communication_skill_score < 60 THEN 'Weak_tech_comm_skills'
+		WHEN TechSkills_Score < 60 THEN 'Weak_tech_skills'
+		WHEN communication_skill_score < 60 THEN 'Weak_comm_skills'
+		ELSE 'Balanced'
+	END skills_segmentation,
+	COUNT(*) total_number_students,
+	ROUND(AVG(TechSkills_Score)::numeric,2) avg_tech_skills_Score,
+	ROUND(AVG(communication_skill_score)::numeric,2) avg_comm_skill_score
+	
+FROM student_tech_soft_score
+WHERE cgpa >= 8.5 AND placement_status = 'Not Placed'
+GROUP BY skills_segmentation
+ORDER BY total_number_students DESC;
+
+-- Total high-CGPA but not placed = 14,904 students
+	-- a. Weak_tech_comm_skills (69% of group)
+		-- Tech avg = 42.12
+		-- Comm avg = 30.00
+	-- b. Weak_tech_skills (28%)
+		-- Tech avg = 37.54 (very low)
+		-- Comm avg = 78.46 (strong)
+	-- c. Weak_comm_skills (2.6%)
+		-- Tech avg = 62.75
+		-- Comm avg = 16.51
+	-- d. Balanced (4 students)
+		-- Tech = 61.85
+		-- Comm = 76.23
+
+```
 
 <img width="632" height="370" alt="Overview Page" src="https://github.com/user-attachments/assets/d7eb7584-90ee-400c-8621-6e2d7953fb13" />
 
