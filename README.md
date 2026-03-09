@@ -230,11 +230,37 @@ Key Insights:
 ### 5.	Placement Risk and Placement Readiness
 -	There was high risk of students with poor communication skills not being placed, since the higher the placement risks the lower the placement rates                                                
 	-	This highlights that placement rates are not detrmined by poor communication skills, rather strong communication skills
--	Students with beginner level coding skills had higher riks of placement, since coding skills  have high impact of placement
-
+-	Students with beginner coding skills had higher riks of placement, since coding skills has a high impact on students placement
+-	Students with low interview scores (Not Ready) had high placement risks, since interview score has a high impact on students placement
 
 ---
 
+## Recommendations
 
+### 1. Strengthen Technical Skill Development
+Students with stronger technical abilities, particularly higher coding and logical reasoning scores, show better placement outcomes. Colleges should introduce more hands-on programming labs, coding challenges, and technical workshops to improve these competencies and better prepare students for recruitment assessments.
+
+### 2. Increase Access to Internship Opportunities  
+Internships provide valuable real-world experience and significantly improve employability. Institutions should collaborate with industry partners to create more internship programs, ensuring that students gain practical exposure before graduation.
+   
+### 3. Enhance Interview Preparation Programs
+Mock interview performance is an important indicator of placement success. Universities should conduct regular mock interview sessions, resume-building workshops, and career counseling programs to help students improve their confidence and interview performance.
+
+### 4. Encourage Skill-Based Certifications and Projects  
+Students with more certifications and practical projects demonstrate stronger technical and professional readiness. Educational institutions should encourage students to complete industry-recognized certifications and participate in project-based learning to strengthen their portfolios.
+
+### 5. Focus on Holistic Skill Development
+Placement success is influenced by a combination of academic performance, technical skills, communication ability, and practical experience. Colleges should adopt a holistic training approach that integrates technical training, soft skill development, leadership activities, and extracurricular engagement to better prepare students for the job market.
+
+---
+##  Conclusion
+
+This project analyzed the key factors influencing student employability by examining academic performance, technical skills, soft skills, and practical experience using SQL-based data analysis and interactive dashboards in Microsoft Power BI. The analysis revealed that student placement outcomes are driven by a combination of factors rather than a single attribute. Technical competencies such as coding ability, logical reasoning, and aptitude scores emerged as strong indicators of placement readiness, while practical experience gained through internships and projects further improves employability by providing real-world exposure. Soft skills, particularly communication ability and performance in mock interviews, also play an important role in the recruitment process as they influence interview success and professional presentation. Although academic performance, represented by CGPA, contributes to placement potential, the findings indicate that strong academic results alone do not guarantee employment without complementary technical and professional skills. Overall, the project demonstrates that successful placements are associated with a balanced combination of academic strength, technical proficiency, practical experience, and effective communication, highlighting the importance of holistic skill development in preparing students for the job market.
+
+---
+
+## References
+1.	SQL for Data Engineering [Data with Baraa](https://www.youtube.com/watch?v=SSKVgrwhzus)
+2.	Data Analytics with [Chandoo](https://www.youtube.com/results?search_query=chandoo)
 
 
