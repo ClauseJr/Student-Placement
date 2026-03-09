@@ -159,6 +159,11 @@ Analytical Insights:
 
 The Skills Impact Dashboard focuses on demonstrating how different skills set such as communication skills impacts students placement rates.
 
+Key KPIs:
+  -  Number of Students
+  -  Students Placed
+  -  Placement Rate
+
 Key Insights:
   -  Students with higher technical skills and stronger communication skills were highly placed, below is the summary of technical and communication skills distribution:
      -	High tech skills and strong comm skills 60.21%
@@ -172,9 +177,19 @@ Key Insights:
 
 <img width="633" height="371" alt="Skill Impact Page" src="https://github.com/user-attachments/assets/c4350904-ee54-4d47-8292-002df9569732" />
 
-###  3. Customer Insights Dashboard
+###  3. Risk Readiness Dashboard
 
-The Customer Insights Dashboard focuses on the analysis of revenue, profitability, customer orders, return rates and average shipping time
+The Risk Readiness Dashboard focuses on the analysis of students placement risks and placement readiness. When the rate of placement is low, suddenly the student has a high risk of not being placed.
+
+Key KPIs:
+  -  Number of Students
+  -  Placement Rate
+  -  Placement Readiness
+  -  Placement Risk
+    
+Key Insights:
+-	students with poor communication skills, beginners in coding, very weak logical reasoning, lower scores in mock interviews, less project and poor academic performances had a high risk of placement.
+-	Students with higher placement risk had a low placement rate hence not placed.
 
 
 <img width="632" height="371" alt="Risk Readiness Page" src="https://github.com/user-attachments/assets/3df4111d-6a8b-4921-bfc4-91e1be505bac" />
