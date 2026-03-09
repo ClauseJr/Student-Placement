@@ -49,6 +49,12 @@ Within Power BI:
 Slicers were implemented for dynamic analysis by Gender and Voluteer experience.
     
 ---
+## Data Analysis
+
+```sql
+
+```
+
 <img width="632" height="370" alt="Overview Page" src="https://github.com/user-attachments/assets/d7eb7584-90ee-400c-8621-6e2d7953fb13" />
 
 <img width="633" height="371" alt="Skill Impact Page" src="https://github.com/user-attachments/assets/c4350904-ee54-4d47-8292-002df9569732" />
