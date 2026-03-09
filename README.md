@@ -87,6 +87,7 @@ ORDER BY placement_rate DESC
 	-- than students with moderate technical skills but strong communication, though the difference is marginal.
 ```
 ```sql
+-- Identify students with CGPA ≥ 8.5 who were not placed and analyze their technical and soft skill weaknesses.
 
 WITH student_tech_soft_score AS (
 	SELECT
