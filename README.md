@@ -132,9 +132,45 @@ ORDER BY total_number_students DESC;
 
 ```
 
+---
+## Project Dashboards
+
+###  1. Overview Dashboard
+
+This dashboard provides a high-level summary of the student's placement rates overview.
+
+Key KPIs:
+  -  Number of Students
+  -  Students Placed
+  -  Placement Rate
+
+Analytical Insights:
+  -  Higher placement rates of 73.07% was recorded among students with advaced coding skills, i.e Advaced -> Proficient -> Intermediate -> Beginner
+  -  It was recorded that students with high aptitude capacities had higher placement rates compared to students with low aptitude capacity.
+  -  Higher placement rates of 59.10% was recorded for studets with strong logical reasoning.
+  -  The Probability of studets with higher and outstanding CGPA to be placed was high at 42.42%, since performance of a student determines the rate of placement.
+  -  The overal number of students placed was 40,000 from the total number of students, and this significance was as a result of academic performance, technical skills difference, communication skills etc, that were key at determining students to be placed.
+    
+ This dashboard functions as an executive summary, offering quick insight for students placed, placement success and placement rates.
+ 
 <img width="632" height="370" alt="Overview Page" src="https://github.com/user-attachments/assets/d7eb7584-90ee-400c-8621-6e2d7953fb13" />
 
+###  2. Revenue Insight Dashboard
+
+The Revenue Insight Dashboard focuses on revenue and sales analysis, highlighting contribution and performance across different sectors.
+
+Key Insights:
+  -  Higher revenues were encountered in the global markets of Asian Pacific and a least revenue was realized in African region
+  -  Higher revenues were encountered in the Medium priorities and there was a least priority in the Low priority and this is proportional to the profits.
+  -  Copiers, Phones and Bookcases were the higher product subcategories that contributed to the higher performance in profts
+  -  Their were higher performance of revenue per week on Mondays, Fridays and Sundays, and this was as a result in the number of orders
+
 <img width="633" height="371" alt="Skill Impact Page" src="https://github.com/user-attachments/assets/c4350904-ee54-4d47-8292-002df9569732" />
+
+###  3. Customer Insights Dashboard
+
+The Customer Insights Dashboard focuses on the analysis of revenue, profitability, customer orders, return rates and average shipping time
+
 
 <img width="632" height="371" alt="Risk Readiness Page" src="https://github.com/user-attachments/assets/3df4111d-6a8b-4921-bfc4-91e1be505bac" />
 
