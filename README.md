@@ -52,7 +52,39 @@ Slicers were implemented for dynamic analysis by Gender and Voluteer experience.
 ## Data Analysis
 
 ```sql
+-- Compare placement rates between: 
+	-- Students with high technical skills but weak communication
+	-- Students with moderate technical skills but strong communication
+	
+WITH student_tech_soft_score AS (
+	SELECT
+		*,
+		ROUND(
+			(coding_skill_score 
+			+ aptitude_score 
+			+ logical_reasoning_score 
+			+ mock_interview_score)::numeric / 4.0
+		,2) AS TechSkills_Score
+	FROM student_placement_data
+)
+SELECT 
+	CASE
+		WHEN TechSkills_Score >= 75 AND communication_skill_score < 60 THEN 'HighTech_WeakComm'
+		WHEN TechSkills_Score >= 55 AND TechSkills_Score < 75 AND communication_skill_score >= 75 THEN 'ModerateTech_StrongComm'
+	END AS student_cohort,
+	
+	COUNT(*) total_number_students,
+	ROUND(
+		COUNT(CASE WHEN placement_status = 'Placed' THEN 1 END) * 100.0 / COUNT(*)
+	,2) placement_rate
+FROM student_tech_soft_score
+WHERE (TechSkills_Score >= 75 AND communication_skill_score < 60) OR
+	(TechSkills_Score >= 55 AND TechSkills_Score < 75 AND communication_skill_score >= 75)
+GROUP BY student_cohort
+ORDER BY placement_rate DESC
 
+-- Students with very high technical skills but weak communication have slightly higher placement success 
+	-- than students with moderate technical skills but strong communication, though the difference is marginal.
 ```
 
 <img width="632" height="370" alt="Overview Page" src="https://github.com/user-attachments/assets/d7eb7584-90ee-400c-8621-6e2d7953fb13" />
