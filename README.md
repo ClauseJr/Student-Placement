@@ -253,6 +253,17 @@ Students with more certifications and practical projects demonstrate stronger te
 Placement success is influenced by a combination of academic performance, technical skills, communication ability, and practical experience. Colleges should adopt a holistic training approach that integrates technical training, soft skill development, leadership activities, and extracurricular engagement to better prepare students for the job market.
 
 ---
+##	Limitations
+
+This analysis has several limitations that should be acknowledged when interpreting the results:
+
+-	The dataset used in the project is synthetically generated, meaning it was created for analytical practice rather than collected from real institutional records; therefore, the relationships observed may not fully reflect real-world placement dynamics.
+-	The dataset primarily focuses on academic performance, technical skills, and internship experience, while other influential factors such as industry demand, networking opportunities, and organizational hiring practices are not captured.
+-	Complex attributes like communication ability and technical competence are represented using simplified numerical scores, which may not entirely reflect the multidimensional nature of these skills in real recruitment processes.
+
+
+---
+
 ##  Conclusion
 
 This project analyzed the key factors influencing student employability by examining academic performance, technical skills, soft skills, and practical experience using SQL-based data analysis and interactive dashboards in Microsoft Power BI. The analysis revealed that student placement outcomes are driven by a combination of factors rather than a single attribute. Technical competencies such as coding ability, logical reasoning, and aptitude scores emerged as strong indicators of placement readiness, while practical experience gained through internships and projects further improves employability by providing real-world exposure. Soft skills, particularly communication ability and performance in mock interviews, also play an important role in the recruitment process as they influence interview success and professional presentation. Although academic performance, represented by CGPA, contributes to placement potential, the findings indicate that strong academic results alone do not guarantee employment without complementary technical and professional skills. Overall, the project demonstrates that successful placements are associated with a balanced combination of academic strength, technical proficiency, practical experience, and effective communication, highlighting the importance of holistic skill development in preparing students for the job market.
