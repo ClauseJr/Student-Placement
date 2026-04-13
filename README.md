@@ -10,8 +10,8 @@ The interactive Power BI dashboard enables us to:
   -  Analyze the impact of academic performance, communication skills, logical reasoning, interviews, projects, students aptitude, number of internships, and technical skills on placement success.
   -  Identify trends in placement rates, placement risks and the number of students placed.
   -  Identifying the risk factors that are likely to contribute in placement readiness of students.
-  -  Understand temporal mechanism the contributes to high student placement success.
-  -  Develop an interactive dashboard suitable for anlysis of student's placement and risk in placement readiness.
+  -  Understand temporal mechanism that contributes to high student placement success.
+  -  Develop an interactive dashboard suitable for analysis of student's placement and risk in placement readiness.
 
 ### Data Sources
 
